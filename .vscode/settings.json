@@ -1,0 +1,6 @@
+{
+    "git.decorations.enabled": true,
+    "git.enableCommitSigning": true,
+    "git.branchRandomName.enable": true,
+    "git.enableSmartCommit": true
+}
