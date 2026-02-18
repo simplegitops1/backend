@@ -1,6 +1,5 @@
 {
-    "git.decorations.enabled": true,
-    "git.enableCommitSigning": true,
-    "git.branchRandomName.enable": true,
-    "git.enableSmartCommit": true
+    "Codegeex.Comment.LanguagePreference": "English",
+    "Codegeex.Chat.LanguagePreference": "English",
+    "Codegeex.CommitMessage.LanguagePreference": "English"
 }
